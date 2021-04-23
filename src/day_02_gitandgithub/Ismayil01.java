@@ -3,8 +3,7 @@ package day_02_gitandgithub;
 public class Ismayil01 {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Everyone");
-		
+		System.out.println("Hello Everyone");		
 		# Here is the conflict on main branch 
 
 	}
